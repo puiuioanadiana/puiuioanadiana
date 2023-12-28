@@ -7,4 +7,5 @@
    - email : puiuioanadiana@gmail.com
    - [LinkedIn](https://www.linkedin.com/in/puiuioanadiana/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,node,sql,tailwind)](https://skillicons.dev)
