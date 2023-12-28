@@ -6,3 +6,5 @@
  :mailbox: How to get in touch:
    - email : puiuioanadiana@gmail.com
    - [LinkedIn](https://www.linkedin.com/in/puiuioanadiana/)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
