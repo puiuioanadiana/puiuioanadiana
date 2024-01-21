@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there :wave: I'm Ioana!</h1>
 <h3>I am a full-stack developer who has recently graduated from a 16-week coding bootcamp hosted by SchoolOfCode Bootcamp 15.</h3>
+<h3>With over 11 years of successful experience, I have consistently demonstrated expertise in the field of water quality testing.</h3>
 <div align="center">
  </div>
 
