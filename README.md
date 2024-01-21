@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there :wave: I'm Ioana!</h1>
+<h3>I am a full-stack developer who has recently graduated from a 16-week coding bootcamp hosted by  Bootcamp 15.
 <div align="center">
  </div>
 
